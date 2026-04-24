@@ -1,3 +1,4 @@
+
 # 🖐️ Virtual Keyboard using Hand Tracking
 
 A real-time virtual keyboard built using OpenCV, MediaPipe, and cvzone.
@@ -15,3 +16,5 @@ pip install -r requirements.txt
 ## ▶️ Run
 
 python main.py
+=======
+
