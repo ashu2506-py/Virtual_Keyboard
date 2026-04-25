@@ -61,7 +61,7 @@ python main.py
 
 ### Demo Video
 
-## Click on the link below
+
 
 
 https://github.com/user-attachments/assets/0061e7bb-a73b-450f-99ac-2259b2d5094b
